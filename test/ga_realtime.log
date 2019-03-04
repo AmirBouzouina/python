@@ -1,0 +1,90 @@
+2019-03-04 16:19:02,357 - ERROR - while while
+2019-03-04 16:19:22,375 - ERROR - while while
+2019-03-04 16:19:26,824 - ERROR - while while
+2019-03-04 16:19:26,825 - INFO - 2019-03-04 21:49:26.824996
+2019-03-04 16:19:27,825 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:19:27,826 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 117, in gaRealtimeJob
+    for key, value in jsonData[0].iteritems():
+KeyError: 0
+2019-03-04 16:21:57,125 - ERROR - while while
+2019-03-04 16:21:57,125 - INFO - 2019-03-04 21:51:57.125936
+2019-03-04 16:21:58,187 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:21:58,187 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 117, in gaRealtimeJob
+    with open('datafile') as json_file:
+IOError: [Errno 2] No such file or directory: 'datafile'
+2019-03-04 16:23:47,545 - ERROR - while while
+2019-03-04 16:23:47,545 - INFO - 2019-03-04 21:53:47.545217
+2019-03-04 16:23:48,548 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:23:48,549 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 119, in gaRealtimeJob
+    for key, value in jsonData[0].iteritems():
+KeyError: 0
+2019-03-04 16:25:05,616 - ERROR - while while
+2019-03-04 16:25:05,616 - INFO - 2019-03-04 21:55:05.616909
+2019-03-04 16:25:06,661 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:25:06,662 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 119, in gaRealtimeJob
+    for key, value in jsonData :
+ValueError: too many values to unpack
+2019-03-04 16:25:36,078 - ERROR - while while
+2019-03-04 16:25:36,078 - INFO - 2019-03-04 21:55:36.078943
+2019-03-04 16:25:37,164 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:25:37,165 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 118, in gaRealtimeJob
+    for key, value in jsonData :
+ValueError: too many values to unpack
+2019-03-04 16:31:36,091 - ERROR - while while
+2019-03-04 16:31:36,091 - INFO - 2019-03-04 22:01:36.091896
+2019-03-04 16:31:37,149 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:32:41,734 - ERROR - while while
+2019-03-04 16:32:41,735 - INFO - 2019-03-04 22:02:41.735102
+2019-03-04 16:32:42,898 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:32:42,898 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 118, in gaRealtimeJob
+    for key, value in jsonData[0].iteritems():
+KeyError: 0
+2019-03-04 16:34:27,556 - ERROR - while while
+2019-03-04 16:34:27,556 - INFO - 2019-03-04 22:04:27.556412
+2019-03-04 16:34:28,674 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:34:28,674 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 118, in gaRealtimeJob
+    for key, value in json_data.items():
+NameError: name 'json_data' is not defined
+2019-03-04 16:34:43,602 - ERROR - while while
+2019-03-04 16:34:43,603 - INFO - 2019-03-04 22:04:43.603098
+2019-03-04 16:34:44,721 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:34:44,721 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 118, in gaRealtimeJob
+    for key, value in json_file.items():
+AttributeError: '_io.TextIOWrapper' object has no attribute 'items'
+2019-03-04 16:36:10,920 - ERROR - while while
+2019-03-04 16:36:10,920 - INFO - 2019-03-04 22:06:10.920804
+2019-03-04 16:36:11,910 - INFO - androidActiveUsers: , webActiveUsers: 
+2019-03-04 16:36:11,911 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 118, in gaRealtimeJob
+    for key, value in json_file.items():
+AttributeError: 'file' object has no attribute 'items'
+2019-03-04 16:37:17,440 - ERROR - while while
+2019-03-04 16:37:17,440 - INFO - 2019-03-04 22:07:17.440690
+2019-03-04 16:37:17,674 - ERROR - Exception while fetching GA
+Traceback (most recent call last):
+  File "test.py", line 98, in gaRealtimeJob
+    scope='https://www.googleapis.com/auth/analytics.readonly')
+  File "/home/grow/.local/lib/python2.7/site-packages/googleapiclient/sample_tools.py", line 95, in init
+    service = discovery.build(name, version, http=http)
+  File "/home/grow/.local/lib/python2.7/site-packages/oauth2client/util.py", line 140, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/home/grow/.local/lib/python2.7/site-packages/googleapiclient/discovery.py", line 200, in build
+    version))
+UnknownApiNameOrVersion: name: analytics  version: v4

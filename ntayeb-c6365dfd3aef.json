@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ntayeb",
+  "private_key_id": "c6365dfd3aef4d7029e3384315de41678c3e47ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfzf8YJTo7g2uk\n71cFzxqMJJ+gBHavkQ/+aqpyr1Qek1pXOU2Ou+/gJaSc5UC2/GA0rn+xGZAETbTq\nVD2z4Zk4l5VWPTjOH/BTltCrt1zLE9N3ifdQsPZUhNbeO5h7ZRE9DhMg73ErDFeV\noAdCfjukvh3lrhHMBB2O+eEWwnyTutMftDWC2Iypp4/NaoUtZ0+PEjvMGm5AwwMd\np9EvYdATsoMy0Eq7dHqA6+B0vCZs6BZZp7Gm61Ni400IDblY9CF3NMuINzOGCtuI\nXQ6gLeb14iWtGsfDo+NI7cio5xVapp0aMlb/Uv4PFo1/ZZFjtL5qj837afC1VvKR\neE5xD1oDAgMBAAECggEAGQUyvIAPpwPDldZXZLRxbqHJUE+Cmah3vZjLyRsEa6kc\niu2Q5BkuzIR4SoxmXoATPAxaN8tNzi6wdcPsyT44NDEfk5oQS82aXiwNzeTupWkc\nQeobC8o5NzB5R+BC1ocTdODAQ/bZXCkZiXa9zD5hbkDKA40Ggk/epOUgxeR7htGJ\nJMHI8sHtFDYNsNHVBVcdGrssv6uNg8beq22e0s6wa726iIiGVvwvlphEWWK6q38h\nzIc+CPm90HzTzyGGrF01aavIVoV4bOJDNpDjTG8DkgreQcP+YPpCvbBeEhkjqrOM\nha/x6lb4ucRQz/hD3fJ69S9+bhkpc7Z81QdcT8VRqQKBgQDOs2m048bVGO8tEU9O\net3p8EKodO3mSRGFbuD4qIZcNVkWFull+/auHLu01R0+S1wuewSDxpz7VT+u4jUr\n42vtnMlEDXz4EzvCp38kGuTMWCy6PSsZhNH3byeIv4+sjx46P0MJcxV2alk8sB6x\nCjMcPUCCNEDo3iW8nAfjWi3MfwKBgQDF6zuD+dYRhwMI+Nf7A/dioV+kokmRI/fJ\nHt1X56Vbm4hZHlINTVZdbKZBMB9XjAIUvHTcMDKhi/0tOv6BL+C6AY9UoEe+S9i/\n/W5GAABHOSEEO6mFWt8Z7rQq8V6mf1vMCJq8fPl3wfQdIi4ObMIaidvRQ7Cp6U58\ns2UO4A2AfQKBgGTGdDMNGlOq5HFEjzXkEW2NBfK7j4FG/pPfiy+welFacSSj5wch\n4RLiT2HKxYcplrfSolDc9IxU88d/4gyTxHsEhdv394W7Wtd8cjBYLFS0aJokWG8I\nopXQS6YQPywSWtprHXPt9/jTwM4lz9Dg+Co8cscIUt018ZATQoVF4i5hAoGALR/K\nu/ZURj7ABGWn6IUo/AXK5qBRoZPPxL0Svh4EZ3R4i8kL8Bh33mkNJsOwAafcOZoW\nErWydX6TRKK0sAOYexAr+6Fneg2U54ECiVcquRJfYrWvmsXzI9h2n2vUpqVW6pfz\nn5Hm1tUTsSi/024ceyx/P6DtQG//AxNrsQ6IRYkCgYB5lZrO8QKu9M4+Ctq3PgNo\nqbgrfFGyD/Ku5OkdCQ5S58TYgFkOiO7NVzaWGiH+44fhiZYrFqR//SJT5pZbd7fs\nMuzs22MKclWV6le00JcB/IcrHAMpgWgJa3KxGGwfuQXVEp/9ZrHoxneO5j89r2Lg\nrynxzvwB0Dt22sM32YgIiw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "anapython@ntayeb.iam.gserviceaccount.com",
+  "client_id": "104453132673666241137",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anapython%40ntayeb.iam.gserviceaccount.com"
+}
